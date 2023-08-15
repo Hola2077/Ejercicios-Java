@@ -1,9 +1,7 @@
-package com.mycompany.mavenproject1;
-
 import java.util.Arrays;
 import javax.swing.JOptionPane;
 
-public class Mavenproject1 {
+public class puntoUno {
 
     public static void main(String[] args) {
         int dimencionUno = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese las dimenciones del array 1"));
