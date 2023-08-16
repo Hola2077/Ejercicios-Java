@@ -23,6 +23,6 @@ public class Mavenproject1 {
             array[i] = array[array.length / 2 - 1];
             array[array.length / 2 - 1] = temp;
         }
-        JOptionPane.showMessageDialog(null, "Su array es:  " + Arrays.toString(arrayAntes) + "\n" + "Su array invertido es:  " + Arrays.toString(array));
+        JOptionPane.showMessageDialog(null, "Su array es:  " + Arrays.toString(arrayAntes) + "\n" + "Punto 3:         " + Arrays.toString(array));
     }
 }
