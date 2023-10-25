@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 public class main {
 
     public static void main(String[] args) {
-        Circulo circulo = new Circulo();
+        circulo circulo = new circulo();
         circulo.setNumero(Double.parseDouble(JOptionPane.showInputDialog("Digite el Valor del Radio")));
         circulo.procesarArea();
         circulo.procesarCircunferencia();

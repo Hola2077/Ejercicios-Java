@@ -1,7 +1,7 @@
 import java.util.*;
 import javax.swing.JOptionPane;
 
-public class Mavenproject2 {
+public class main {
 
     public static void main(String[] args) {
         final int n = Integer.parseInt(JOptionPane.showInputDialog(null,"Ingresa la dimension:"));

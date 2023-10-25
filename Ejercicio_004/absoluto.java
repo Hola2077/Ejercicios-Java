@@ -1,8 +1,8 @@
-public class Absoluto {
+public class absoluto {
 
     private double numero;
 
-    public Absoluto() {
+    public absoluto() {
         numero = 0;
     }
 

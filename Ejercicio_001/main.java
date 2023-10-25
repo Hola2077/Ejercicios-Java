@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import javax.swing.JOptionPane;
 
-public class puntoUno {
+public class main {
 
     public static void main(String[] args) {
         int dimencionUno = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese las dimenciones del array 1"));

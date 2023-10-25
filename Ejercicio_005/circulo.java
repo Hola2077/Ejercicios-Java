@@ -1,10 +1,10 @@
-public class Circulo {
+public class circulo {
 
     private double radio;
     private double area;
     private double circunferencia;
 
-    public Circulo() {
+    public circulo() {
         radio = 0;
         area = 0;
         circunferencia = 0;
